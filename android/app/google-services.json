@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080429668130",
+    "project_id": "lifesparktask1",
+    "storage_bucket": "lifesparktask1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080429668130:android:74db100f23ff30b28d677b",
+        "android_client_info": {
+          "package_name": "com.example.lifespak_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGdP2PGEzLy4Y1Pc50pF6cwkDdufMTdHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
